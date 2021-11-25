@@ -59,5 +59,21 @@ b=2
 c=3
 print(a,b,c,'=',a+b+c)
 ```
+ ```c
+ #include<stdio.h>
+ int main()
+ {
+ printf("hello");
+ return 0;
+ }
+ ```
    
-   
+``` c++
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"hello";
+return 0;
+}
+```
