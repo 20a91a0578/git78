@@ -25,8 +25,39 @@ TEXT NORMAL
 |1|20a91a0578|rajesh|cse|
 |1|20a91a0578|rajesh|cse|
 
-| | | | |
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
+##ordered list
+1. Good Morning
+
+2. Good Afternoon
+
+3. Good Evening
+
+##unordered list
+- Good Morning
+- Good AFTERNOON
+- Good Evening
+* hello
+* hiii
+* emchesthunaru
+
+#nested list
+* good morning
+   a. brush
+   b. tiffin
+   c. tea/coffe/milk
+* good afternoon
+   1. lunch
+   2. sleep
+* good night
+   1. DINNER
+   2. T.V
+   3. SLEEP
+
+``` python
+a=1
+b=2
+c=3
+print(a,b,c,'=',a+b+c)
+```
+   
+   
